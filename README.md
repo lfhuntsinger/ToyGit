@@ -6,6 +6,8 @@ Added this line using GitHub
 
 # Chapter 1
 
+Chapter 1 will cover the basics
+
 # Chapter 2
 
 # Chapter 3
