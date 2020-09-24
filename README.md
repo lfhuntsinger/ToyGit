@@ -10,4 +10,6 @@ Chapter 1 will cover the basics
 
 # Chapter 2
 
+Chapter 2 will cover the intermediate items
+
 # Chapter 3
